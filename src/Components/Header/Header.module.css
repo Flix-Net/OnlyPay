@@ -1,0 +1,18 @@
+.linkItem{
+    color: #ABA8AC;
+    font-size: 18px;
+    font-weight: 600;
+    text-decoration: none;
+    margin: 0 30px;
+    line-height: 50px;
+    transition: .3s;
+}
+
+.linkItem:last-child{
+    margin-right: 10px;
+}
+
+.linkItem:hover{
+    color: #dedede;
+    text-shadow: 2px 2px 15px #03A9F4;
+}
